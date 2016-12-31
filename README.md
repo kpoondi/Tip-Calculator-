@@ -2,7 +2,7 @@
 
 Tippy is a tip calculator application for iOS.
 
-Submitted by: Kausthub Poodni
+Submitted by: Kausthub Poondi
 
 Time spent: 5 hours spent in total
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/kpoondi/Documents/CodePath/Tippy/Tippy/Tippy/TippyGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/HfJF7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
