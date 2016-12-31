@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Biggest issue was dealing with different versions of xCode and Swift. Also had some issues with the Settings page, but it was a quick fix. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
